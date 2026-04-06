@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Atestado Médico",
+  "description": "Ferramenta para geração de atestados médicos com busca de CID-10 e layout formatado para impressão A4.",
+  "requestFramePermissions": []
+}
